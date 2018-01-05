@@ -1,0 +1,137 @@
+{
+  "name": "children-in-placement-by-race-and-ethnicity",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Children in Placement by Race and Ethnicity",
+  "description": "Children in Placement by Race reports the number of children in Connecticut Department of Children and Families (DCF) placement by Racial or Ethnic Group.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "ctdcf",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
+    "web": "http://ctdata.org"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/data.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "Other",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Measure Type",
+          "type": "string",
+          "dimension": true
+        }, {
+          "name": "Variable",
+          "type": "string",
+          "dimension": true
+        }, {
+          "name": "Value",
+          "type": "number",
+          "dimension": false
+        }]
+      }
+    }
+  ],
+  "last_modified": "01/05/2018",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "This dataset contains aggregate data concerning the number of unique children placed in open DCF placements at a single point in time - July 1st of each State Fiscal Year. These figures are disaggregated by Region, Racial or Ethnic Group, whether placement is in or out-of-state, and by the Type of Placement in which the child is residing on the observation date. The 'Other' Region category includes all cases that are not being served by a Regional DCF Office. This includes cases being served as/by Aftercare, General Administration, Treatment Services, Special Investigations Unit, DCF Hotline, or cases that have not been assigned to a DCF Regional office as of the date of observation. Note: Not every combination of filters will have values. CTData also carries this data disaggregated by Age Group and by Gender. For more information, click the link below to see the full metadata.",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "Relative Foster Care refers to Foster Care where the provider is a relative of the child. In Special Study cases, a child may be placed in a foster home where the providor is not a member of the child's family, but has some meaningful connection to the child, and in most cases is recruited, trained, licensed and supported by the DCF directly. Cases listed here as PDC or Safe Home refer to placements in either a Permanency Diagnostic Center (not utilized since 2011) or a DCF Safe Home. The DCF High Meadows facility was closed in 2009, and as such no further cases are listed in the data. The Solnit Center includes its North Campus (formerly CT Children's Place) and South Campus (formerly Riverview Psychiatric Hospital). Independent Living placement includes DCF programs such as Supportive Work, Education, and Transition Programs (SWET) and Community Housing Apartment Programs (CHAP).",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "True",
+      "type": "string"
+    },
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "https://data.ct.gov/Health-and-Human-Services/DCF-Children-in-Placement-Annual-Point-in-Time-Tre/tnyk-6fv7",
+      "type": "string"
+    },"0socrata_dataset_name": {
+      "ckan_name": "Socrata Dataset Name",
+      "value": "DCF Children in Placement: Annual Point-in-Time Trend By Race/Ethnicity",
+      "type": "string"
+    }, 
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "Safety",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "Child Welfare",
+      "type": "string"
+    },
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "Other",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Annual",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": [],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "SFY 2016-2017",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "default": {}
+  },
+  "spot_checks": [],
+  "dimension_groups": [
+    {"Measure Type": []},
+    {"Variable": []}
+  ]
+}
