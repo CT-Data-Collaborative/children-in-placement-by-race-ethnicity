@@ -110,6 +110,17 @@ cip_df_long_clean <- merge(cip_df_long_clean, backfill,
 cip_df_long_clean$`Measure Type` <- "Number"
 cip_df_long_clean$Variable <- "Children in Placement"
 
+#Create copy with Region 0 for CONNECT
+cip_df_long_clean_CONNECT <- cip_df_long_clean
+
+write.table(
+    cip_df_long_clean_CONNECT,
+    file.path(getwd(), "data", "children-in-placement-by-race-ethnicity_CONNECT.csv"),
+    sep = ",",
+    row.names = F,
+    na = "-6666" #Missing data that was backfilled
+)
+
 # Use factors to order data
 # Region
 cip_df_long_clean$DCF_Region <- factor(cip_df_long_clean$DCF_Region, 
