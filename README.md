@@ -1,7 +1,8 @@
 Children in Placement by Race and Ethnicity
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/children-in-placement-by-race-and-ethnicity.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/children-in-placement-by-race-and-ethnicity)
 Children in Placement by Race reports the number of children in Connecticut Department of Children and Families (DCF) placement by Racial or Ethnic Group.
+
+Data Source: <https://data.ct.gov/Health-and-Human-Services/DCF-Children-in-Placement-Annual-Point-in-Time-Tre/tnyk-6fv7>
 
 ## License MIT
 

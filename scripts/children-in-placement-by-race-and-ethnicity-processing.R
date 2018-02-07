@@ -33,7 +33,6 @@ cip_df_long <- melt(
 
 # recode all the things
 # Region Names
-cip_df_long$DCF_Region[cip_df_long$DCF_Region == "Region 0"] <- "Other"
 cip_df_long$DCF_Region[cip_df_long$DCF_Region == "Region 1"] <- "Region 1: Southwest"
 cip_df_long$DCF_Region[cip_df_long$DCF_Region == "Region 2"] <- "Region 2: South Central"
 cip_df_long$DCF_Region[cip_df_long$DCF_Region == "Region 3"] <- "Region 3: Eastern"
@@ -87,6 +86,25 @@ tot_Race <- unique(tot_Race)
 
 cip_df_long_clean <- rbind(cip_df_long_clean, tot_Race)
 
+#Backfill groups
+regions <- c("Other", "Region 1: Southwest", "Region 2: South Central", 
+             "Region 3: Eastern", "Region 4: North Central", 
+             "Region 5: Western", "Region 6: Central")
+
+backfill <- expand.grid(
+  DCF_Region = regions,
+  `Year` = unique(cip_df_long_clean$Year),
+  `Demographic` = unique(cip_df_long_clean$Demographic),
+  `Out_of_State` = unique(cip_df_long_clean$Out_of_State),
+  `Type of Placement` = unique(cip_df_long_clean$`Type of Placement`)
+)
+
+cip_df_long_clean <- as.data.frame(cip_df_long_clean, stringsAsFactors=FALSE)
+backfill <- as.data.frame(backfill, stringsAsFactors=FALSE)
+
+cip_df_long_clean <- merge(cip_df_long_clean, backfill, 
+                           by = c("DCF_Region", "Year", "Demographic", "Out_of_State", "Type of Placement"), 
+                           all.y=T)
 
 # Add Measure type and variable
 cip_df_long_clean$`Measure Type` <- "Number"
@@ -101,6 +119,7 @@ cip_df_long_clean$DCF_Region <- factor(cip_df_long_clean$DCF_Region,
                                               "Region 4: North Central",
                                               "Region 5: Western",
                                               "Region 6: Central",
+                                              #"Region 0", #dont include region 0 in final list
                                               "Other"))
 
 # Race
@@ -134,7 +153,7 @@ cip_df_long_clean <- as.data.frame(cip_df_long_clean)
 complete_df <- cip_df_long_clean %>% 
   select(DCF_Region, Year, Demographic, Out_of_State, `Type of Placement`, `Measure Type`, Variable, tot_Value) %>% 
   arrange(DCF_Region, Year, Demographic, Out_of_State, `Type of Placement`) %>% 
-  rename(Region = DCF_Region, Gender  = Demographic, `Location of Placement` = Out_of_State, Value = tot_Value)
+  rename(Region = DCF_Region, `Race/Ethnicity`  = Demographic, `Location of Placement` = Out_of_State, Value = tot_Value)
 
 # Write to File
 write.table(
@@ -142,5 +161,5 @@ write.table(
     file.path(getwd(), "data", "children-in-placement-by-race-ethnicity.csv"),
     sep = ",",
     row.names = F,
-    na = "-9999"
+    na = "-6666" #Missing data that was backfilled
 )
