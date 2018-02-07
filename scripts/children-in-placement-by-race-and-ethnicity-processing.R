@@ -87,9 +87,10 @@ tot_Race <- unique(tot_Race)
 cip_df_long_clean <- rbind(cip_df_long_clean, tot_Race)
 
 #Backfill groups
-regions <- c("Other", "Region 1: Southwest", "Region 2: South Central", 
-             "Region 3: Eastern", "Region 4: North Central", 
-             "Region 5: Western", "Region 6: Central")
+regions <- c("Other", "Region 0", "Region 1: Southwest", 
+                         "Region 2: South Central", "Region 3: Eastern", 
+                         "Region 4: North Central", "Region 5: Western", 
+                         "Region 6: Central")
 
 backfill <- expand.grid(
   DCF_Region = regions,
@@ -121,6 +122,8 @@ write.table(
     na = "-6666" #Missing data that was backfilled
 )
 
+cip_df_long_clean <- cip_df_long_clean[cip_df_long_clean$DCF_Region != "Region 0",]
+
 # Use factors to order data
 # Region
 cip_df_long_clean$DCF_Region <- factor(cip_df_long_clean$DCF_Region, 
@@ -130,7 +133,6 @@ cip_df_long_clean$DCF_Region <- factor(cip_df_long_clean$DCF_Region,
                                               "Region 4: North Central",
                                               "Region 5: Western",
                                               "Region 6: Central",
-                                              #"Region 0", #dont include region 0 in final list
                                               "Other"))
 
 # Race

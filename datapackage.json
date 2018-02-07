@@ -112,7 +112,7 @@
     },
     "suppression": {
       "ckan_name": "Suppression",
-      "value": "",
+      "value": "Missing values are denoted with a -6666.",
       "type": "string"
     },
     "technical_notes": {
@@ -147,7 +147,7 @@
     },
     "geography": {
       "ckan_name": "Geography",
-      "value": "Other",
+      "value": "Region",
       "type": "string",
       "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
     },
@@ -187,6 +187,12 @@
     "default": {      
       "ckan_name": "Default",
       "value": {
+        "Region": ["Region 1: Southwest", 
+                   "Region 2: South Central", 
+                   "Region 3: Eastern", 
+                   "Region 4: North Central", 
+                   "Region 5: Western", 
+                   "Region 6: Central"],
         "Year": ["SFY 2016-2017"],
         "Race/Ethnicity": "Total", 
         "Location of Placement": "In State", 
