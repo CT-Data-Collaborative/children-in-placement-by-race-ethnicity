@@ -171,7 +171,7 @@ complete_df <- cip_df_long_clean %>%
 # Write to File
 write.table(
     complete_df,
-    file.path(getwd(), "data", "children-in-placement-by-race-ethnicity.csv"),
+    file.path(getwd(), "data", "children-in-placement-by-race-ethnicity-2019.csv"),
     sep = ",",
     row.names = F,
     na = "-6666" #Missing data that was backfilled

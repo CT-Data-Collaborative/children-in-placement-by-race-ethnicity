@@ -1473,95 +1473,287 @@ Data_as_of,DCF_Region,DCF_Office,Demographic,Out_of_State,Month_in_Care,TOTAL_CI
 07/18/2017,Region 6,New Britain Office,Non-Hispanic Other,Y,07/01/2015,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 07/18/2017,Region 6,New Britain Office,Non-Hispanic White,N,07/01/2015,136,34,35,5,25,0,2,12,6,0,1,2,1,13
 07/18/2017,Region 6,New Britain Office,Non-Hispanic White,Y,07/01/2015,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 4,Manchester Office,Hispanic,Y,07/01/2016,5,0,5,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 5,Waterbury Office,Non-Hispanic White,Y,07/01/2016,2,0,1,0,0,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 3,Willimantic Office,Non-Hispanic Black,N,07/01/2016,11,8,0,1,0,0,1,1,0,0,0,0,0,0
+07/18/2017,Region 3,Norwich Office,Non-Hispanic Other,Y,07/01/2016,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+07/18/2017,Region 0,Unassigned_Office,Non-Hispanic White,N,07/01/2016,3,0,1,0,0,0,0,0,0,0,0,2,0,0
+07/18/2017,Region 2,Milford Office,Non-Hispanic Black,Y,07/01/2016,4,0,3,0,0,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 5,Torrington Office,Non-Hispanic White,N,07/01/2016,94,22,32,11,22,0,0,4,1,0,0,0,0,2
+07/18/2017,Region 3,Willimantic Office,Non-Hispanic Other,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Hartford Office,Non-Hispanic Black,N,07/01/2016,210,48,64,18,34,0,5,12,7,0,0,5,0,17
+07/18/2017,Region 0,Unassigned_Office,Non-Hispanic Black,N,07/01/2016,2,0,0,0,0,0,0,1,0,0,0,1,0,0
+07/18/2017,Region 2,Milford Office,Non-Hispanic Other,N,07/01/2016,32,6,9,5,7,1,0,2,0,0,0,0,0,2
+07/18/2017,Region 2,Milford Office,Non-Hispanic White,N,07/01/2016,108,29,37,5,16,0,2,5,6,0,2,0,1,5
+07/18/2017,Region 3,Middletown Office,Hispanic,N,07/01/2016,25,8,5,2,5,0,0,0,3,0,0,0,1,1
+07/18/2017,Region 1,Bridgeport Office,Hispanic,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Other,N,07/01/2016,23,8,8,0,3,0,0,2,0,0,0,1,0,1
+07/18/2017,Region 5,Danbury Office,Hispanic,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 5,Torrington Office,Hispanic,N,07/01/2016,22,10,4,2,4,0,0,0,0,0,1,0,0,1
+07/18/2017,Region 4,Manchester Office,Non-Hispanic Black,Y,07/01/2016,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 2,Milford Office,Non-Hispanic White,Y,07/01/2016,3,0,1,0,0,0,0,0,0,0,0,0,0,2
+07/18/2017,Region 1,Bridgeport Office,Non-Hispanic White,N,07/01/2016,27,9,10,0,3,0,0,2,3,0,0,0,0,0
+07/18/2017,Region 4,Manchester Office,Non-Hispanic Other,N,07/01/2016,39,11,18,1,1,0,0,1,1,0,2,0,1,3
+07/18/2017,Region 5,Danbury Office,Non-Hispanic Black,N,07/01/2016,23,4,11,4,2,0,0,0,0,0,0,0,1,1
+07/18/2017,Region 5,Waterbury Office,Hispanic,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
 07/18/2017,Region 2,Milford Office,Hispanic,Y,07/01/2016,3,0,2,0,0,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 1,Norwalk Office,Non-Hispanic White,N,07/01/2016,23,7,11,3,1,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 4,Hartford Office,Hispanic,Y,07/01/2016,8,3,5,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 6,New Britain Office,Non-Hispanic Other,Y,07/01/2016,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Manchester Office,Hispanic,Y,07/01/2016,5,0,5,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 3,Norwich Office,Non-Hispanic White,Y,07/01/2016,9,0,5,2,0,0,0,0,2,0,0,0,0,0
+07/18/2017,Region 0,Unassigned_Office,Hispanic,N,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 2,Milford Office,Hispanic,N,07/01/2016,65,18,18,4,15,1,0,5,0,0,0,0,0,4
 07/18/2017,Region 2,Milford Office,Non-Hispanic Black,N,07/01/2016,68,17,23,5,11,0,0,4,2,0,1,0,1,4
 07/18/2017,Region 4,Hartford Office,Non-Hispanic Other,N,07/01/2016,32,10,9,3,4,0,0,3,1,0,0,0,1,1
-07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Other,N,07/01/2016,23,8,8,0,3,0,0,2,0,0,0,1,0,1
-07/18/2017,Region 4,Hartford Office,Hispanic,N,07/01/2016,259,62,101,22,34,0,4,21,4,0,0,0,1,10
-07/18/2017,Region 4,Hartford Office,Non-Hispanic White,N,07/01/2016,46,12,15,2,3,0,3,5,1,0,1,1,1,2
-07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Black,N,07/01/2016,138,34,39,9,21,0,0,12,3,0,1,10,2,7
-07/18/2017,Region 3,Middletown Office,Non-Hispanic Black,Y,07/01/2016,2,0,1,0,0,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 6,Meriden Office,Hispanic,N,07/01/2016,79,22,28,4,10,0,0,5,4,0,0,0,1,5
-07/18/2017,Region 5,Waterbury Office,Hispanic,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 5,Waterbury Office,Non-Hispanic White,N,07/01/2016,145,50,39,11,29,0,3,3,7,0,0,1,0,2
-07/18/2017,Region 5,Torrington Office,Hispanic,N,07/01/2016,22,10,4,2,4,0,0,0,0,0,1,0,0,1
-07/18/2017,Region 3,Willimantic Office,Non-Hispanic White,N,07/01/2016,184,67,75,9,14,0,1,8,5,0,0,0,0,5
-07/18/2017,Region 1,Bridgeport Office,Non-Hispanic White,N,07/01/2016,27,9,10,0,3,0,0,2,3,0,0,0,0,0
-07/18/2017,Region 6,New Britain Office,Non-Hispanic White,Y,07/01/2016,3,1,0,0,2,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 5,Danbury Office,Non-Hispanic White,N,07/01/2016,89,29,38,8,10,0,0,1,0,0,0,1,0,2
-07/18/2017,Region 3,Middletown Office,Non-Hispanic White,Y,07/01/2016,2,1,1,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 2,New Haven Office,Non-Hispanic Other,N,07/01/2016,21,8,4,0,2,0,0,1,5,0,0,0,0,1
-07/18/2017,Region 2,Milford Office,Non-Hispanic Black,Y,07/01/2016,4,0,3,0,0,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 2,Milford Office,Non-Hispanic White,N,07/01/2016,108,29,37,5,16,0,2,5,6,0,2,0,1,5
-07/18/2017,Region 5,Danbury Office,Hispanic,N,07/01/2016,80,37,25,6,11,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 1,Bridgeport Office,Hispanic,N,07/01/2016,98,19,32,7,23,0,0,4,6,0,1,1,0,5
-07/18/2017,Region 6,Meriden Office,Non-Hispanic Black,Y,07/01/2016,2,0,0,0,0,0,0,0,0,0,0,0,0,2
-07/18/2017,Region 2,Milford Office,Hispanic,N,07/01/2016,65,18,18,4,15,1,0,5,0,0,0,0,0,4
-07/18/2017,Region 6,Meriden Office,Non-Hispanic White,N,07/01/2016,45,12,15,4,10,0,0,3,1,0,0,0,0,0
-07/18/2017,Region 3,Willimantic Office,Non-Hispanic White,Y,07/01/2016,4,1,2,0,0,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 2,New Haven Office,Non-Hispanic White,N,07/01/2016,41,13,15,1,7,0,0,2,1,0,0,0,0,2
-07/18/2017,Region 4,Hartford Office,Non-Hispanic Black,Y,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 1,Bridgeport Office,Non-Hispanic White,Y,07/01/2016,6,0,5,0,0,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 3,Middletown Office,Hispanic,Y,07/01/2016,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 3,Willimantic Office,Non-Hispanic Black,N,07/01/2016,11,8,0,1,0,0,1,1,0,0,0,0,0,0
-07/18/2017,Region 0,Unassigned_Office,Hispanic,Y,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 5,Torrington Office,Non-Hispanic Other,N,07/01/2016,22,8,4,1,9,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 4,Manchester Office,Non-Hispanic Black,N,07/01/2016,52,9,15,4,13,0,0,5,1,0,1,0,0,4
-07/18/2017,Region 2,New Haven Office,Non-Hispanic Black,N,07/01/2016,155,30,49,7,26,1,0,14,4,0,1,7,1,15
-07/18/2017,Region 4,Manchester Office,Non-Hispanic White,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 3,Middletown Office,Non-Hispanic White,N,07/01/2016,73,23,24,2,9,0,2,2,2,0,0,0,0,9
-07/18/2017,Region 4,Manchester Office,Non-Hispanic Other,N,07/01/2016,39,11,18,1,1,0,0,1,1,0,2,0,1,3
-07/18/2017,Region 3,Norwich Office,Non-Hispanic Black,N,07/01/2016,58,20,12,6,12,0,0,4,0,0,1,1,0,2
-07/18/2017,Region 5,Danbury Office,Non-Hispanic Other,N,07/01/2016,15,0,9,2,2,0,0,1,0,0,0,0,0,1
-07/18/2017,Region 5,Waterbury Office,Non-Hispanic White,Y,07/01/2016,2,0,1,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 0,Unassigned_Office,Hispanic,N,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 6,New Britain Office,Non-Hispanic White,N,07/01/2016,164,35,62,7,25,0,1,12,4,0,3,0,1,14
-07/18/2017,Region 5,Waterbury Office,Non-Hispanic Other,N,07/01/2016,35,10,15,2,7,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 5,Torrington Office,Non-Hispanic White,N,07/01/2016,94,22,32,11,22,0,0,4,1,0,0,0,0,2
-07/18/2017,Region 1,Norwalk Office,Non-Hispanic Other,N,07/01/2016,14,6,1,1,4,0,0,1,0,0,0,0,0,1
-07/18/2017,Region 3,Norwich Office,Hispanic,N,07/01/2016,106,30,47,5,9,0,1,2,7,0,1,0,0,4
-07/18/2017,Region 5,Danbury Office,Non-Hispanic Black,N,07/01/2016,23,4,11,4,2,0,0,0,0,0,0,0,1,1
 07/18/2017,Region 4,Manchester Office,Non-Hispanic White,N,07/01/2016,142,41,46,17,20,0,4,8,2,0,3,0,1,0
-07/18/2017,Region 5,Waterbury Office,Hispanic,N,07/01/2016,210,69,65,19,35,2,1,10,2,0,1,4,0,2
-07/18/2017,Region 3,Norwich Office,Non-Hispanic Other,N,07/01/2016,72,25,31,7,4,0,0,3,0,0,0,0,0,2
-07/18/2017,Region 2,Milford Office,Non-Hispanic White,Y,07/01/2016,3,0,1,0,0,0,0,0,0,0,0,0,0,2
-07/18/2017,Region 5,Waterbury Office,Non-Hispanic Black,N,07/01/2016,96,22,34,10,22,0,0,2,1,0,0,3,1,1
-07/18/2017,Region 6,Meriden Office,Non-Hispanic Other,N,07/01/2016,15,7,3,0,4,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 3,Willimantic Office,Non-Hispanic Other,N,07/01/2016,46,17,18,3,3,0,1,2,1,0,0,0,0,1
-07/18/2017,Region 4,Manchester Office,Non-Hispanic Black,Y,07/01/2016,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 3,Norwich Office,Non-Hispanic Black,Y,07/01/2016,5,0,4,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Black,Y,07/01/2016,3,0,0,0,0,0,0,0,1,0,0,0,0,2
-07/18/2017,Region 3,Norwich Office,Hispanic,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 3,Norwich Office,Non-Hispanic Other,Y,07/01/2016,2,0,0,0,0,0,0,0,1,0,0,0,1,0
-07/18/2017,Region 4,Hartford Office,Non-Hispanic White,Y,07/01/2016,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 6,New Britain Office,Non-Hispanic Black,N,07/01/2016,51,12,4,2,14,0,1,6,1,0,0,1,2,8
-07/18/2017,Region 0,Unassigned_Office,Non-Hispanic Black,N,07/01/2016,2,0,0,0,0,0,0,1,0,0,0,1,0,0
-07/18/2017,Region 1,Bridgeport Office,Hispanic,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 0,Unassigned_Office,Non-Hispanic White,N,07/01/2016,3,0,1,0,0,0,0,0,0,0,0,2,0,0
-07/18/2017,Region 6,Meriden Office,Non-Hispanic White,Y,07/01/2016,4,1,1,0,0,0,0,0,0,0,0,0,0,2
-07/18/2017,Region 3,Middletown Office,Hispanic,N,07/01/2016,25,8,5,2,5,0,0,0,3,0,0,0,1,1
-07/18/2017,Region 5,Torrington Office,Non-Hispanic Black,N,07/01/2016,4,1,0,0,2,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 5,Danbury Office,Hispanic,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 6,Meriden Office,Non-Hispanic Black,N,07/01/2016,12,4,2,1,1,0,0,1,1,0,0,0,0,2
-07/18/2017,Region 6,New Britain Office,Non-Hispanic Other,N,07/01/2016,35,8,11,3,10,0,0,2,0,0,0,1,0,0
-07/18/2017,Region 3,Middletown Office,Non-Hispanic Other,N,07/01/2016,5,0,2,0,2,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 5,Danbury Office,Non-Hispanic White,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 3,Willimantic Office,Non-Hispanic Other,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-07/18/2017,Region 2,New Haven Office,Non-Hispanic Black,Y,07/01/2016,8,1,3,0,3,0,0,0,0,0,0,0,0,1
-07/18/2017,Region 3,Willimantic Office,Hispanic,N,07/01/2016,72,17,27,7,7,0,2,4,4,0,1,0,0,3
-07/18/2017,Region 4,Hartford Office,Non-Hispanic Other,Y,07/01/2016,4,0,3,0,0,0,0,0,1,0,0,0,0,0
-07/18/2017,Region 4,Hartford Office,Non-Hispanic Black,N,07/01/2016,210,48,64,18,34,0,5,12,7,0,0,5,0,17
-07/18/2017,Region 1,Norwalk Office,Hispanic,N,07/01/2016,67,25,19,7,14,0,1,0,0,0,0,0,0,1
-07/18/2017,Region 1,Norwalk Office,Non-Hispanic Black,N,07/01/2016,78,20,32,8,13,0,0,2,0,0,0,0,0,3
-07/18/2017,Region 6,New Britain Office,Hispanic,N,07/01/2016,156,34,45,12,34,0,0,13,7,0,0,3,1,7
+07/18/2017,Region 0,Unassigned_Office,Hispanic,Y,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 07/18/2017,Region 3,Norwich Office,Non-Hispanic White,N,07/01/2016,191,55,84,11,15,0,1,13,6,0,1,2,0,3
-07/18/2017,Region 2,Milford Office,Non-Hispanic Other,N,07/01/2016,32,6,9,5,7,1,0,2,0,0,0,0,0,2
-07/18/2017,Region 4,Manchester Office,Hispanic,N,07/01/2016,65,25,23,4,4,0,1,2,5,0,0,0,0,1
-07/18/2017,Region 3,Middletown Office,Non-Hispanic Black,N,07/01/2016,17,5,5,0,3,0,0,1,0,0,0,0,0,3
-07/18/2017,Region 3,Norwich Office,Non-Hispanic White,Y,07/01/2016,9,0,5,2,0,0,0,0,2,0,0,0,0,0
+07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Black,N,07/01/2016,138,34,39,9,21,0,0,12,3,0,1,10,2,7
+07/18/2017,Region 1,Bridgeport Office,Non-Hispanic Black,Y,07/01/2016,3,0,0,0,0,0,0,0,1,0,0,0,0,2
+07/18/2017,Region 1,Bridgeport Office,Hispanic,N,07/01/2016,98,19,32,7,23,0,0,4,6,0,1,1,0,5
+07/18/2017,Region 5,Torrington Office,Non-Hispanic Black,N,07/01/2016,4,1,0,0,2,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 3,Norwich Office,Hispanic,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Hartford Office,Non-Hispanic White,Y,07/01/2016,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Hartford Office,Non-Hispanic Other,Y,07/01/2016,4,0,3,0,0,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 6,New Britain Office,Non-Hispanic Other,Y,07/01/2016,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 1,Bridgeport Office,Non-Hispanic White,Y,07/01/2016,6,0,5,0,0,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 3,Middletown Office,Non-Hispanic Other,N,07/01/2016,5,0,2,0,2,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 3,Willimantic Office,Non-Hispanic White,Y,07/01/2016,4,1,2,0,0,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 3,Middletown Office,Non-Hispanic White,Y,07/01/2016,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Manchester Office,Non-Hispanic White,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 4,Manchester Office,Non-Hispanic Black,N,07/01/2016,52,9,15,4,13,0,0,5,1,0,1,0,0,4
+07/18/2017,Region 6,New Britain Office,Non-Hispanic White,N,07/01/2016,164,35,62,7,25,0,1,12,4,0,3,0,1,14
+07/18/2017,Region 5,Danbury Office,Non-Hispanic White,Y,07/01/2016,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 3,Norwich Office,Hispanic,N,07/01/2016,106,30,47,5,9,0,1,2,7,0,1,0,0,4
+07/18/2017,Region 5,Waterbury Office,Non-Hispanic Black,N,07/01/2016,96,22,34,10,22,0,0,2,1,0,0,3,1,1
+07/18/2017,Region 4,Hartford Office,Hispanic,Y,07/01/2016,8,3,5,0,0,0,0,0,0,0,0,0,0,0
 07/18/2017,Region 2,New Haven Office,Hispanic,N,07/01/2016,95,25,19,9,22,0,0,2,4,0,3,0,0,11
+07/18/2017,Region 5,Waterbury Office,Non-Hispanic White,N,07/01/2016,145,50,39,11,29,0,3,3,7,0,0,1,0,2
+07/18/2017,Region 5,Danbury Office,Non-Hispanic White,N,07/01/2016,89,29,38,8,10,0,0,1,0,0,0,1,0,2
+07/18/2017,Region 2,New Haven Office,Non-Hispanic Other,N,07/01/2016,21,8,4,0,2,0,0,1,5,0,0,0,0,1
+07/18/2017,Region 6,New Britain Office,Non-Hispanic Other,N,07/01/2016,35,8,11,3,10,0,0,2,0,0,0,1,0,0
+07/18/2017,Region 3,Norwich Office,Non-Hispanic Other,N,07/01/2016,72,25,31,7,4,0,0,3,0,0,0,0,0,2
+07/18/2017,Region 2,New Haven Office,Non-Hispanic Black,N,07/01/2016,155,30,49,7,26,1,0,14,4,0,1,7,1,15
+07/18/2017,Region 3,Middletown Office,Non-Hispanic Black,Y,07/01/2016,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 1,Norwalk Office,Non-Hispanic Other,N,07/01/2016,14,6,1,1,4,0,0,1,0,0,0,0,0,1
+07/18/2017,Region 5,Waterbury Office,Non-Hispanic Other,N,07/01/2016,35,10,15,2,7,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 5,Waterbury Office,Hispanic,N,07/01/2016,210,69,65,19,35,2,1,10,2,0,1,4,0,2
+07/18/2017,Region 1,Norwalk Office,Hispanic,N,07/01/2016,67,25,19,7,14,0,1,0,0,0,0,0,0,1
+07/18/2017,Region 6,New Britain Office,Hispanic,N,07/01/2016,156,34,45,12,34,0,0,13,7,0,0,3,1,7
+07/18/2017,Region 6,Meriden Office,Non-Hispanic Black,Y,07/01/2016,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+07/18/2017,Region 1,Norwalk Office,Non-Hispanic Black,N,07/01/2016,78,20,32,8,13,0,0,2,0,0,0,0,0,3
+07/18/2017,Region 3,Norwich Office,Non-Hispanic Black,N,07/01/2016,58,20,12,6,12,0,0,4,0,0,1,1,0,2
+07/18/2017,Region 6,New Britain Office,Non-Hispanic White,Y,07/01/2016,3,1,0,0,2,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 3,Norwich Office,Non-Hispanic Black,Y,07/01/2016,5,0,4,0,0,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 2,New Haven Office,Non-Hispanic Black,Y,07/01/2016,8,1,3,0,3,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 3,Willimantic Office,Non-Hispanic Other,N,07/01/2016,46,17,18,3,3,0,1,2,1,0,0,0,0,1
+07/18/2017,Region 3,Willimantic Office,Hispanic,N,07/01/2016,72,17,27,7,7,0,2,4,4,0,1,0,0,3
+07/18/2017,Region 4,Manchester Office,Hispanic,N,07/01/2016,65,25,23,4,4,0,1,2,5,0,0,0,0,1
+07/18/2017,Region 4,Hartford Office,Non-Hispanic White,N,07/01/2016,46,12,15,2,3,0,3,5,1,0,1,1,1,2
+07/18/2017,Region 2,New Haven Office,Non-Hispanic White,N,07/01/2016,41,13,15,1,7,0,0,2,1,0,0,0,0,2
+07/18/2017,Region 3,Middletown Office,Non-Hispanic White,N,07/01/2016,73,23,24,2,9,0,2,2,2,0,0,0,0,9
+07/18/2017,Region 4,Hartford Office,Hispanic,N,07/01/2016,259,62,101,22,34,0,4,21,4,0,0,0,1,10
+07/18/2017,Region 6,New Britain Office,Non-Hispanic Black,N,07/01/2016,51,12,4,2,14,0,1,6,1,0,0,1,2,8
+07/18/2017,Region 5,Danbury Office,Non-Hispanic Other,N,07/01/2016,15,0,9,2,2,0,0,1,0,0,0,0,0,1
+07/18/2017,Region 1,Norwalk Office,Non-Hispanic White,N,07/01/2016,23,7,11,3,1,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 3,Middletown Office,Hispanic,Y,07/01/2016,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 6,Meriden Office,Non-Hispanic White,N,07/01/2016,45,12,15,4,10,0,0,3,1,0,0,0,0,0
 07/18/2017,Region 2,New Haven Office,Non-Hispanic White,Y,07/01/2016,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 3,Middletown Office,Non-Hispanic Black,N,07/01/2016,17,5,5,0,3,0,0,1,0,0,0,0,0,3
+07/18/2017,Region 6,Meriden Office,Hispanic,N,07/01/2016,79,22,28,4,10,0,0,5,4,0,0,0,1,5
+07/18/2017,Region 5,Danbury Office,Hispanic,N,07/01/2016,80,37,25,6,11,0,0,0,0,0,0,0,0,1
+07/18/2017,Region 5,Torrington Office,Non-Hispanic Other,N,07/01/2016,22,8,4,1,9,0,0,0,0,0,0,0,0,0
+07/18/2017,Region 3,Willimantic Office,Non-Hispanic White,N,07/01/2016,184,67,75,9,14,0,1,8,5,0,0,0,0,5
+07/18/2017,Region 6,Meriden Office,Non-Hispanic White,Y,07/01/2016,4,1,1,0,0,0,0,0,0,0,0,0,0,2
+07/18/2017,Region 4,Hartford Office,Non-Hispanic Black,Y,07/01/2016,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 6,Meriden Office,Non-Hispanic Other,N,07/01/2016,15,7,3,0,4,0,0,0,1,0,0,0,0,0
+07/18/2017,Region 6,Meriden Office,Non-Hispanic Black,N,07/01/2016,12,4,2,1,1,0,0,1,1,0,0,0,0,2
+10/06/2017,Region 3,Norwich Office,Non-Hispanic Other,N,07/01/2017,55,22,18,5,3,0,0,1,1,0,0,0,1,4
+10/06/2017,Region 2,Milford Office,Hispanic,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 6,New Britain Office,Hispanic,N,07/01/2017,162,35,55,14,28,1,2,9,7,0,1,2,2,6
+10/06/2017,Region 5,Danbury Office,Hispanic,N,07/01/2017,70,28,18,10,11,0,0,1,0,0,0,0,0,2
+10/06/2017,Region 4,Hartford Office,Non-Hispanic White,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Hartford Office,Non-Hispanic White,N,07/01/2017,48,17,15,2,5,0,1,4,1,0,0,0,0,3
+10/06/2017,Region 4,Hartford Office,Non-Hispanic Black,N,07/01/2017,202,48,70,17,31,1,2,9,4,0,1,5,0,14
+10/06/2017,Region 3,Norwich Office,Non-Hispanic Other,Y,07/01/2017,3,0,2,0,0,0,0,0,1,0,0,0,0,0
+10/06/2017,Region 6,Meriden Office,Non-Hispanic Black,Y,07/01/2017,2,0,0,0,1,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 4,Manchester Office,Non-Hispanic Other,Y,07/01/2017,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Willimantic Office,Non-Hispanic Other,N,07/01/2017,42,19,10,2,3,0,0,5,0,0,0,0,1,2
+10/06/2017,Region 3,Willimantic Office,Non-Hispanic Other,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 1,Bridgeport Office,Non-Hispanic Black,N,07/01/2017,127,33,33,5,22,0,1,5,2,0,1,8,1,16
+10/06/2017,Region 5,Torrington Office,Non-Hispanic White,N,07/01/2017,105,21,38,12,18,1,1,2,2,0,2,0,2,6
+10/06/2017,Region 4,Hartford Office,Non-Hispanic Other,Y,07/01/2017,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Middletown Office,Non-Hispanic White,Y,07/01/2017,5,0,3,0,0,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 4,Manchester Office,Non-Hispanic Black,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 6,New Britain Office,Non-Hispanic White,Y,07/01/2017,5,2,1,0,2,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,Milford Office,Hispanic,N,07/01/2017,66,18,16,1,16,0,1,6,1,0,1,1,1,4
+10/06/2017,Region 1,Norwalk Office,Non-Hispanic Other,N,07/01/2017,12,4,4,0,4,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Non-Hispanic White,N,07/01/2017,169,49,56,9,29,0,3,11,3,0,4,0,0,5
+10/06/2017,Region 4,Hartford Office,Hispanic,Y,07/01/2017,4,1,3,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Willimantic Office,Non-Hispanic White,Y,07/01/2017,9,1,7,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 3,Norwich Office,Non-Hispanic White,Y,07/01/2017,4,0,3,0,0,0,0,0,1,0,0,0,0,0
+10/06/2017,Region 3,Middletown Office,Non-Hispanic Black,N,07/01/2017,13,2,7,0,1,0,0,0,1,0,0,0,0,2
+10/06/2017,Region 5,Danbury Office,Non-Hispanic White,N,07/01/2017,84,26,39,6,9,0,0,1,0,0,0,0,0,3
+10/06/2017,Region 5,Waterbury Office,Hispanic,Y,07/01/2017,3,1,1,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 6,New Britain Office,Non-Hispanic Other,Y,07/01/2017,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Norwich Office,Non-Hispanic White,N,07/01/2017,223,82,77,16,12,0,2,13,11,0,0,4,0,6
+10/06/2017,Region 2,New Haven Office,Non-Hispanic White,N,07/01/2017,42,12,10,1,14,0,0,2,0,0,0,0,0,3
+10/06/2017,Region 5,Torrington Office,Hispanic,N,07/01/2017,31,9,9,5,4,0,0,1,0,0,2,0,0,1
+10/06/2017,Region 4,Hartford Office,Hispanic,N,07/01/2017,225,40,86,24,30,0,0,20,6,0,3,0,2,14
+10/06/2017,Region 1,Norwalk Office,Non-Hispanic Other,Y,07/01/2017,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Hartford Office,Non-Hispanic Black,Y,07/01/2017,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,New Haven Office,Non-Hispanic Black,N,07/01/2017,155,33,46,6,31,0,0,8,4,0,1,3,0,23
+10/06/2017,Region 5,Torrington Office,Non-Hispanic Black,N,07/01/2017,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 1,Norwalk Office,Non-Hispanic Black,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 6,Meriden Office,Non-Hispanic White,Y,07/01/2017,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 1,Bridgeport Office,Non-Hispanic Black,Y,07/01/2017,4,0,1,0,0,0,0,0,0,0,0,0,0,3
+10/06/2017,Region 3,Norwich Office,Hispanic,N,07/01/2017,104,35,35,8,11,1,3,2,6,0,1,0,0,2
+10/06/2017,Region 4,Hartford Office,Non-Hispanic Other,N,07/01/2017,31,10,10,2,3,0,0,1,2,0,0,1,0,2
+10/06/2017,Region 3,Willimantic Office,Non-Hispanic White,N,07/01/2017,170,63,53,14,13,0,2,10,6,0,0,1,0,8
+10/06/2017,Region 4,Manchester Office,Non-Hispanic Black,N,07/01/2017,55,8,22,3,10,0,2,4,1,0,0,0,1,4
+10/06/2017,Region 5,Danbury Office,Hispanic,Y,07/01/2017,5,1,4,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Willimantic Office,Hispanic,Y,07/01/2017,4,0,3,0,0,0,0,1,0,0,0,0,0,0
+10/06/2017,Region 3,Willimantic Office,Non-Hispanic Black,N,07/01/2017,16,9,1,2,2,0,0,0,1,0,0,0,0,1
+10/06/2017,Region 2,Milford Office,Non-Hispanic White,N,07/01/2017,139,43,52,10,15,0,0,8,5,0,1,0,1,4
+10/06/2017,Region 1,Bridgeport Office,Non-Hispanic White,N,07/01/2017,34,9,12,1,2,0,0,1,4,0,0,0,2,3
+10/06/2017,Region 1,Norwalk Office,Hispanic,Y,07/01/2017,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,New Haven Office,Hispanic,N,07/01/2017,86,27,10,7,20,1,1,5,1,0,0,0,0,14
+10/06/2017,Region 1,Norwalk Office,Non-Hispanic White,N,07/01/2017,28,5,14,3,2,0,0,0,1,0,1,0,0,2
+10/06/2017,Region 0,Unassigned_Office,Non-Hispanic Black,N,07/01/2017,3,0,0,0,0,0,0,1,0,0,0,2,0,0
+10/06/2017,Region 6,New Britain Office,Hispanic,Y,07/01/2017,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,New Haven Office,Non-Hispanic Other,N,07/01/2017,23,4,5,0,3,0,0,0,2,0,0,2,0,7
+10/06/2017,Region 1,Norwalk Office,Non-Hispanic Black,N,07/01/2017,68,26,22,6,10,0,0,0,0,0,0,0,0,4
+10/06/2017,Region 3,Norwich Office,Non-Hispanic Black,Y,07/01/2017,4,0,4,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,New Haven Office,Non-Hispanic Black,Y,07/01/2017,3,0,2,0,1,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Non-Hispanic Other,N,07/01/2017,42,14,17,4,1,0,0,3,0,0,1,0,1,1
+10/06/2017,Region 5,Waterbury Office,Non-Hispanic Black,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 6,Meriden Office,Hispanic,N,07/01/2017,73,19,29,3,7,0,0,5,2,0,0,0,1,7
+10/06/2017,Region 6,New Britain Office,Non-Hispanic Other,N,07/01/2017,25,9,5,1,5,0,1,1,0,0,0,1,2,0
+10/06/2017,Region 5,Torrington Office,Non-Hispanic Other,N,07/01/2017,24,9,5,0,8,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 5,Danbury Office,Non-Hispanic Other,Y,07/01/2017,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 6,Meriden Office,Hispanic,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Hispanic,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 2,Milford Office,Non-Hispanic Other,N,07/01/2017,33,8,6,4,12,0,0,0,1,0,0,0,0,2
+10/06/2017,Region 6,New Britain Office,Non-Hispanic Black,N,07/01/2017,52,8,8,4,14,1,2,6,3,0,0,1,0,5
+10/06/2017,Region 1,Norwalk Office,Hispanic,N,07/01/2017,66,27,18,6,13,0,0,0,0,0,1,0,0,1
+10/06/2017,Region 5,Waterbury Office,Non-Hispanic White,Y,07/01/2017,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Hispanic,N,07/01/2017,86,23,35,7,7,0,1,2,4,0,2,0,1,4
+10/06/2017,Region 2,Milford Office,Non-Hispanic Black,N,07/01/2017,67,20,22,0,10,1,1,3,3,0,0,0,1,6
+10/06/2017,Region 6,Meriden Office,Non-Hispanic White,N,07/01/2017,57,8,30,5,6,0,1,3,1,0,0,0,1,2
+10/06/2017,Region 3,Middletown Office,Non-Hispanic Black,Y,07/01/2017,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 5,Waterbury Office,Non-Hispanic Black,N,07/01/2017,109,27,40,5,20,0,1,1,1,0,0,8,0,6
+10/06/2017,Region 2,Milford Office,Non-Hispanic White,Y,07/01/2017,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 0,Gen'l Administration,Hispanic,N,07/01/2017,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Non-Hispanic White,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 0,Unassigned_Office,Hispanic,N,07/01/2017,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+10/06/2017,Region 5,Danbury Office,Non-Hispanic White,Y,07/01/2017,4,1,3,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 5,Torrington Office,Non-Hispanic White,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 3,Middletown Office,Non-Hispanic White,N,07/01/2017,70,16,19,8,10,0,0,1,4,0,2,0,0,10
+10/06/2017,Region 3,Willimantic Office,Hispanic,N,07/01/2017,63,21,17,7,6,0,1,5,3,0,0,0,0,3
+10/06/2017,Region 6,Meriden Office,Non-Hispanic Black,N,07/01/2017,21,5,9,1,2,0,0,1,0,0,1,0,0,2
+10/06/2017,Region 3,Middletown Office,Non-Hispanic Other,N,07/01/2017,7,2,3,0,0,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 2,New Haven Office,Non-Hispanic White,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 5,Waterbury Office,Non-Hispanic White,N,07/01/2017,178,62,46,12,32,1,1,7,4,0,2,0,3,8
+10/06/2017,Region 6,Meriden Office,Non-Hispanic Other,N,07/01/2017,19,11,5,0,2,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 1,Bridgeport Office,Non-Hispanic Other,N,07/01/2017,18,4,7,1,3,0,0,1,0,0,0,0,0,2
+10/06/2017,Region 5,Danbury Office,Non-Hispanic Black,N,07/01/2017,24,3,9,4,5,1,0,0,0,0,0,0,0,2
+10/06/2017,Region 1,Bridgeport Office,Non-Hispanic White,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 6,New Britain Office,Non-Hispanic White,N,07/01/2017,177,45,69,8,29,0,0,14,2,0,0,0,1,9
+10/06/2017,Region 5,Waterbury Office,Hispanic,N,07/01/2017,254,90,75,22,35,2,0,12,1,0,1,4,1,11
+10/06/2017,Region 3,Middletown Office,Hispanic,N,07/01/2017,20,5,4,0,5,0,1,2,2,0,1,0,0,0
+10/06/2017,Region 1,Bridgeport Office,Hispanic,N,07/01/2017,101,32,29,0,20,0,0,3,5,0,0,4,0,8
+10/06/2017,Region 5,Danbury Office,Non-Hispanic Other,N,07/01/2017,19,1,9,2,2,0,0,2,0,0,0,0,0,3
+10/06/2017,Region 5,Waterbury Office,Non-Hispanic Other,N,07/01/2017,47,21,17,4,4,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 3,Norwich Office,Non-Hispanic Black,N,07/01/2017,60,22,12,4,9,1,1,5,4,0,0,0,0,2
+11/07/2018,Region 4,Hartford Office,Non-Hispanic Black,Y,07/01/2018,5,2,3,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Hartford Office,Non-Hispanic Other,N,07/01/2018,28,9,12,1,2,0,0,2,1,0,0,0,0,1
+11/07/2018,Region 4,Hartford Office,Non-Hispanic Other,Y,07/01/2018,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Hartford Office,Non-Hispanic White,N,07/01/2018,52,14,21,4,3,0,1,4,3,0,1,0,0,1
+11/07/2018,Region 4,Hartford Office,Non-Hispanic White,Y,07/01/2018,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+11/07/2018,Region 4,Manchester Office,Hispanic,N,07/01/2018,94,26,42,6,6,0,2,5,2,0,0,0,0,5
+11/07/2018,Region 4,Manchester Office,Non-Hispanic Black,N,07/01/2018,56,9,23,3,8,0,2,5,1,0,2,0,0,3
+11/07/2018,Region 4,Manchester Office,Non-Hispanic Black,Y,07/01/2018,5,3,0,0,0,0,0,0,1,0,0,0,0,1
+11/07/2018,Region 4,Manchester Office,Non-Hispanic Other,N,07/01/2018,39,4,20,6,3,0,0,2,1,0,2,0,1,0
+11/07/2018,Region 4,Manchester Office,Non-Hispanic Other,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Manchester Office,Non-Hispanic White,N,07/01/2018,171,44,71,12,22,1,0,8,2,0,2,0,0,9
+11/07/2018,Region 4,Manchester Office,Non-Hispanic White,Y,07/01/2018,4,1,1,0,2,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Danbury Office,Hispanic,N,07/01/2018,72,36,16,11,6,0,0,1,0,0,0,0,0,2
+11/07/2018,Region 5,Danbury Office,Hispanic,Y,07/01/2018,6,1,5,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Danbury Office,Non-Hispanic Black,N,07/01/2018,18,9,4,3,2,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Danbury Office,Non-Hispanic Other,N,07/01/2018,15,4,4,2,0,0,0,3,0,0,0,0,0,2
+11/07/2018,Region 5,Danbury Office,Non-Hispanic Other,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Danbury Office,Non-Hispanic White,N,07/01/2018,74,27,29,4,7,2,0,0,0,0,0,0,1,4
+11/07/2018,Region 5,Danbury Office,Non-Hispanic White,Y,07/01/2018,4,0,4,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Torrington Office,Hispanic,N,07/01/2018,28,10,8,1,2,0,1,3,0,0,1,0,1,1
+11/07/2018,Region 5,Torrington Office,Non-Hispanic Black,N,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Torrington Office,Non-Hispanic Other,N,07/01/2018,25,7,4,1,9,1,0,0,0,0,0,0,0,3
+11/07/2018,Region 5,Torrington Office,Non-Hispanic White,N,07/01/2018,103,32,39,7,14,0,1,3,2,0,0,0,1,4
+11/07/2018,Region 5,Torrington Office,Non-Hispanic White,Y,07/01/2018,3,1,0,0,0,0,0,0,0,0,0,0,0,2
+11/07/2018,Region 5,Waterbury Office,Hispanic,N,07/01/2018,241,83,72,29,31,1,0,6,5,0,2,0,2,10
+11/07/2018,Region 5,Waterbury Office,Hispanic,Y,07/01/2018,5,3,1,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 5,Waterbury Office,Non-Hispanic Black,N,07/01/2018,123,31,46,7,23,3,0,4,2,0,0,0,0,7
+11/07/2018,Region 5,Waterbury Office,Non-Hispanic Black,Y,07/01/2018,3,0,2,0,0,0,0,0,0,0,0,0,1,0
+11/07/2018,Region 5,Waterbury Office,Non-Hispanic Other,N,07/01/2018,45,21,13,3,3,1,0,0,2,0,1,0,0,1
+11/07/2018,Region 5,Waterbury Office,Non-Hispanic White,N,07/01/2018,179,54,60,11,35,2,0,7,4,0,1,0,2,3
+11/07/2018,Region 5,Waterbury Office,Non-Hispanic White,Y,07/01/2018,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,Meriden Office,Hispanic,N,07/01/2018,76,17,36,1,7,0,2,3,1,0,0,0,2,7
+11/07/2018,Region 6,Meriden Office,Hispanic,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,Meriden Office,Non-Hispanic Black,N,07/01/2018,16,4,7,0,2,0,0,1,1,0,0,0,0,1
+11/07/2018,Region 6,Meriden Office,Non-Hispanic Black,Y,07/01/2018,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,Meriden Office,Non-Hispanic Other,N,07/01/2018,14,6,6,0,2,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,Meriden Office,Non-Hispanic White,N,07/01/2018,59,17,27,1,7,0,1,1,1,0,1,0,0,3
+11/07/2018,Region 6,Meriden Office,Non-Hispanic White,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Hispanic,N,07/01/2018,157,36,59,5,31,2,1,8,6,0,1,0,0,8
+11/07/2018,Region 6,New Britain Office,Hispanic,Y,07/01/2018,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Non-Hispanic Black,N,07/01/2018,45,11,8,3,18,1,0,3,0,0,0,0,0,1
+11/07/2018,Region 6,New Britain Office,Non-Hispanic Black,Y,07/01/2018,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Non-Hispanic Other,N,07/01/2018,39,9,14,3,6,0,1,0,1,0,1,0,0,4
+11/07/2018,Region 6,New Britain Office,Non-Hispanic Other,Y,07/01/2018,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Non-Hispanic White,N,07/01/2018,156,38,67,2,29,0,0,10,3,0,0,0,1,6
+11/07/2018,Region 6,New Britain Office,Non-Hispanic White,Y,07/01/2018,3,0,1,0,1,0,0,1,0,0,0,0,0,0
+11/07/2018,Region 0,Unassigned_Office,Non-Hispanic White,N,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 1,Bridgeport Office,Hispanic,N,07/01/2018,104,24,36,3,26,0,0,5,2,0,2,0,0,6
+11/07/2018,Region 1,Bridgeport Office,Non-Hispanic Black,N,07/01/2018,133,37,33,10,20,0,0,11,5,0,0,0,2,15
+11/07/2018,Region 1,Bridgeport Office,Non-Hispanic Black,Y,07/01/2018,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 1,Bridgeport Office,Non-Hispanic Other,N,07/01/2018,18,8,4,1,3,0,0,1,0,0,0,0,0,1
+11/07/2018,Region 1,Bridgeport Office,Non-Hispanic White,N,07/01/2018,50,11,19,6,6,0,0,2,3,0,0,0,0,3
+11/07/2018,Region 1,Norwalk Office,Hispanic,N,07/01/2018,57,25,12,4,9,0,0,1,1,0,0,0,0,5
+11/07/2018,Region 1,Norwalk Office,Hispanic,Y,07/01/2018,4,2,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 1,Norwalk Office,Non-Hispanic Black,N,07/01/2018,53,14,21,7,5,0,0,3,1,0,0,0,0,2
+11/07/2018,Region 1,Norwalk Office,Non-Hispanic Black,Y,07/01/2018,2,0,1,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 1,Norwalk Office,Non-Hispanic Other,N,07/01/2018,16,4,3,0,8,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 1,Norwalk Office,Non-Hispanic White,N,07/01/2018,20,5,6,5,1,0,1,0,1,0,0,0,0,1
+11/07/2018,Region 2,Milford Office,Hispanic,N,07/01/2018,66,18,15,4,18,0,0,5,0,0,1,0,1,4
+11/07/2018,Region 2,Milford Office,Hispanic,Y,07/01/2018,5,0,3,0,0,0,0,0,0,0,0,0,0,2
+11/07/2018,Region 2,Milford Office,Non-Hispanic Black,N,07/01/2018,75,17,23,3,19,1,1,2,2,0,0,0,1,6
+11/07/2018,Region 2,Milford Office,Non-Hispanic Black,Y,07/01/2018,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 2,Milford Office,Non-Hispanic Other,N,07/01/2018,30,5,11,2,10,0,0,0,0,0,1,0,0,1
+11/07/2018,Region 2,Milford Office,Non-Hispanic Other,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 2,Milford Office,Non-Hispanic White,N,07/01/2018,111,41,37,2,14,0,0,7,3,0,0,0,0,7
+11/07/2018,Region 2,Milford Office,Non-Hispanic White,Y,07/01/2018,7,1,3,0,0,0,0,0,2,0,0,0,0,1
+11/07/2018,Region 2,New Haven Office,Hispanic,N,07/01/2018,81,32,13,5,15,0,0,4,3,0,0,0,0,9
+11/07/2018,Region 2,New Haven Office,Hispanic,Y,07/01/2018,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 2,New Haven Office,Non-Hispanic Black,N,07/01/2018,157,33,53,4,34,0,0,6,4,0,3,0,0,20
+11/07/2018,Region 2,New Haven Office,Non-Hispanic Other,N,07/01/2018,24,8,4,0,2,1,0,2,1,0,0,0,0,6
+11/07/2018,Region 2,New Haven Office,Non-Hispanic White,N,07/01/2018,37,12,9,1,9,0,0,2,0,0,1,0,0,3
+11/07/2018,Region 2,New Haven Office,Non-Hispanic White,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Hispanic,N,07/01/2018,37,9,17,0,6,0,0,3,2,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Hispanic,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Non-Hispanic Black,N,07/01/2018,12,2,7,0,2,0,0,0,1,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Non-Hispanic Black,Y,07/01/2018,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 3,Middletown Office,Non-Hispanic Other,N,07/01/2018,13,2,4,3,1,0,2,0,0,0,0,0,0,1
+11/07/2018,Region 3,Middletown Office,Non-Hispanic White,N,07/01/2018,67,22,21,6,5,1,2,2,1,0,1,0,0,6
+11/07/2018,Region 3,Middletown Office,Non-Hispanic White,Y,07/01/2018,6,2,3,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 3,Norwich Office,Hispanic,N,07/01/2018,103,38,30,10,11,0,0,5,7,0,1,0,0,1
+11/07/2018,Region 3,Norwich Office,Non-Hispanic Black,N,07/01/2018,62,16,19,2,13,0,0,3,5,0,0,0,0,4
+11/07/2018,Region 3,Norwich Office,Non-Hispanic Black,Y,07/01/2018,4,0,4,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Norwich Office,Non-Hispanic Other,N,07/01/2018,64,19,26,2,7,1,1,2,1,0,1,0,0,4
+11/07/2018,Region 3,Norwich Office,Non-Hispanic Other,Y,07/01/2018,2,0,1,0,0,0,0,0,1,0,0,0,0,0
+11/07/2018,Region 3,Norwich Office,Non-Hispanic White,N,07/01/2018,206,77,70,17,21,0,1,7,4,0,1,0,2,6
+11/07/2018,Region 3,Norwich Office,Non-Hispanic White,Y,07/01/2018,10,1,7,0,0,0,0,0,2,0,0,0,0,0
+11/07/2018,Region 3,Willimantic Office,Hispanic,N,07/01/2018,63,31,8,3,8,0,2,4,4,0,0,0,1,2
+11/07/2018,Region 3,Willimantic Office,Hispanic,Y,07/01/2018,4,0,4,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Willimantic Office,Non-Hispanic Black,N,07/01/2018,7,2,0,0,2,0,0,1,1,0,0,0,0,1
+11/07/2018,Region 3,Willimantic Office,Non-Hispanic Other,N,07/01/2018,31,18,2,1,1,0,1,2,2,0,0,0,0,4
+11/07/2018,Region 3,Willimantic Office,Non-Hispanic White,N,07/01/2018,163,56,55,10,16,1,2,7,8,0,3,0,0,5
+11/07/2018,Region 3,Willimantic Office,Non-Hispanic White,Y,07/01/2018,12,1,8,0,0,0,0,1,1,0,0,0,1,0
+11/07/2018,Region 4,Hartford Office,Hispanic,N,07/01/2018,221,36,69,28,41,0,4,16,8,0,1,0,1,17
+11/07/2018,Region 4,Hartford Office,Hispanic,Y,07/01/2018,5,0,5,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Hartford Office,Non-Hispanic Black,N,07/01/2018,212,48,76,14,31,0,1,12,1,0,1,0,3,25
